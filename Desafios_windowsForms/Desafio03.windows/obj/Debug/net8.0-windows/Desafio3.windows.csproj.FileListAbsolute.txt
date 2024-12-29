@@ -1,0 +1,16 @@
+C:\Users\Jahnna\source\repos\Desafio3.windows\bin\Debug\net8.0-windows\Desafio3.windows.exe
+C:\Users\Jahnna\source\repos\Desafio3.windows\bin\Debug\net8.0-windows\Desafio3.windows.deps.json
+C:\Users\Jahnna\source\repos\Desafio3.windows\bin\Debug\net8.0-windows\Desafio3.windows.runtimeconfig.json
+C:\Users\Jahnna\source\repos\Desafio3.windows\bin\Debug\net8.0-windows\Desafio3.windows.dll
+C:\Users\Jahnna\source\repos\Desafio3.windows\bin\Debug\net8.0-windows\Desafio3.windows.pdb
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.Form1.resources
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.csproj.GenerateResource.cache
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.AssemblyInfoInputs.cache
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.AssemblyInfo.cs
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.dll
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\refint\Desafio3.windows.dll
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.pdb
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\Desafio3.windows.genruntimeconfig.cache
+C:\Users\Jahnna\source\repos\Desafio3.windows\obj\Debug\net8.0-windows\ref\Desafio3.windows.dll

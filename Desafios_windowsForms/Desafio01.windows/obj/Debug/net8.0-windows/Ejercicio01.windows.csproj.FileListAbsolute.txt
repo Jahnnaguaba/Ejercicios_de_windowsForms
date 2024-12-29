@@ -1,0 +1,16 @@
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.Form1.resources
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.csproj.GenerateResource.cache
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.AssemblyInfoInputs.cache
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.AssemblyInfo.cs
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\bin\Debug\net8.0-windows\Ejercicio01.windows.exe
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\bin\Debug\net8.0-windows\Ejercicio01.windows.deps.json
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\bin\Debug\net8.0-windows\Ejercicio01.windows.runtimeconfig.json
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\bin\Debug\net8.0-windows\Ejercicio01.windows.dll
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\bin\Debug\net8.0-windows\Ejercicio01.windows.pdb
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.dll
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\refint\Ejercicio01.windows.dll
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.pdb
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\Ejercicio01.windows.genruntimeconfig.cache
+C:\Users\Jahnna\source\repos\Ejercicio01.windows\obj\Debug\net8.0-windows\ref\Ejercicio01.windows.dll
